@@ -20,11 +20,6 @@ devtools::install_github("meminsahin/PLSRegs")
 
 Please refer to the package documentation for more detailed usage instructions.
 
-## Authors
-
-- Sude Gurer
-- Selay Sila Doner
-- Mehmet Emin Sahin
 
 🤝 We appreciate your interest in our package, and we are open to suggestions and contributions. Feel free to open an issue or pull request!
 
